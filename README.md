@@ -7,8 +7,4 @@ alessandropanico/alessandropanico is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<html>
-<div style="backgroundcolor:red;font-family:impact">
-    PROVA
-  </div>
-</html>
+
